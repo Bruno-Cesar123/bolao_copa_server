@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Bruno-Cesar123/esports_server.git
+$ git clone https://github.com/Bruno-Cesar123/bolao_copa_server.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd server
